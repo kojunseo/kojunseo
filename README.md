@@ -4,6 +4,13 @@
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
 - 💻 Undergraduate Student Intern in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
 - 🏫 Teached Student in Edu-Plex (2018.07 - 2020.06)
+- 🔥 Second Prize in Problem Solving Learning Fair at SKKU
+
+### 경험
+- 🎒 성균관대학교 인공지능융합전공 18학번
+- 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL] 학부생 인턴
+- 🏫 에듀플렉스 강사 (2018.07 - 2020.06)
+- 🔥 성균관대학교 문제해결과 알고리즘 러닝페어 2등 수상
 
 ### Languages and Tool
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
