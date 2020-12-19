@@ -6,7 +6,7 @@
 - 🏫 Teached Student in Edu-Plex (2018.07 - 2020.06)
 - 🔥 Second Prize in Problem Solving Learning Fair at SKKU
 
-### 경험
+### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL] 학부생 인턴
 - 🏫 에듀플렉스 강사 (2018.07 - 2020.06)
