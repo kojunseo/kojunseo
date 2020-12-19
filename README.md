@@ -12,7 +12,7 @@
 - 🏫 에듀플렉스 강사 (2018.07 - 2020.06)
 - 🔥 성균관대학교 문제해결과 알고리즘 러닝페어 2등 수상
 
-### Languages and Tool
+### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698864-f1cfab80-4283-11eb-90a5-d53f95851daf.png">
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698869-fdbb6d80-4283-11eb-8726-2af4048d8a15.jpeg">
