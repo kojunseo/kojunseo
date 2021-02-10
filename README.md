@@ -12,7 +12,7 @@
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL] 학부생 인턴
 - 🔥 성균관대학교 문제해결과 알고리즘 러닝페어 2등 수상
 - 🔥 성균관대학교 AI북커톤대회 장려상
-- 🔥 성균관대학교 생활개선앱개발대회 우수상(2등) / 서버(백엔드) 엔지니어링
+- 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), 서버(백엔드) 엔지니어링
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
