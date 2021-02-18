@@ -1,4 +1,4 @@
-### HI, MY NAME IS JUNSEO KO 💻
+### Junseo Ko 
 
 ### BIO
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
