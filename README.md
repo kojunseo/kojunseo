@@ -19,6 +19,7 @@
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
+[<img align = "left" width="26px" src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">][scholar]
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698864-f1cfab80-4283-11eb-90a5-d53f95851daf.png">
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698869-fdbb6d80-4283-11eb-8726-2af4048d8a15.jpeg">
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698881-10ce3d80-4284-11eb-80a8-b8ffef6787ac.png">
@@ -30,6 +31,7 @@
 
 
 [DSAIL]: https://sites.google.com/view/datasciencelab/ "Go DSAIL"
+[scholar]: https://scholar.google.com/citations?user=qt7vHIMAAAAJ&hl=ko&oi=ao
 [Youtube link]: https://www.youtube.com/channel/UCCaunu3Cv09ZCDxU13Gx3Hg?view_as=subscriber
 [appdev]: https://github.com/KorKite/SubwaySeat_APP
 [learning]: https://github.com/KorKite/Offline-Calendar-Python-Tkinter
