@@ -7,7 +7,7 @@
 - 🔥 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🔥 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
 - 🔥 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
-        
+- 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 
 ### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
