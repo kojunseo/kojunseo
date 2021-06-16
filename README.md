@@ -16,6 +16,7 @@
 - 🔥 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상 (2018)][learning]
 - 🔥 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
 - 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
+- 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링][dongmen]
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
@@ -36,3 +37,4 @@
 [appdev]: https://github.com/KorKite/SubwaySeat_APP
 [learning]: https://github.com/KorKite/Offline-Calendar-Python-Tkinter
 [bookathon]: https://github.com/KorKite/bookathon2021-SKKU-Team-COCO
+[dongmen]: https://github.com/KorKite/dongguk-ontenttion-mentoring
