@@ -8,7 +8,7 @@
 - 🔥 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
 - 🔥 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
-- 🔥 Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
+- 🔥 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 
 ### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
@@ -18,7 +18,7 @@
 - 🔥 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
 - 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
-- 🔥 성균관대학교 코딥러닝 프로젝트, [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
+- 🔥 성균관대학교 코딥러닝 프로젝트 우수상(4등), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
