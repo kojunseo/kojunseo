@@ -14,11 +14,11 @@
 - 🎒 성균관대학교 인공지능융합전공 18학번
 - 🎒 성균관대학교 대학원 인공지능융합학과 2021학년도 입학
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL] 학부생 인턴
-- 🔥 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상 (2018)][learning]
+- 🔥 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
 - 🔥 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
 - 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
-- 🔥 성균관대학교 코딥러닝 프로젝트 우수상(4등), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
+- 🔥 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
