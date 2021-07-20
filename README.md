@@ -3,7 +3,7 @@
 ### BIO
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
-- 💻 Undergraduate Student Intern in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
+- 💻 AI Researcher [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
 - 🔥 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🔥 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
 - 🔥 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
@@ -13,7 +13,7 @@
 ### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
 - 🎒 성균관대학교 대학원 인공지능융합학과 2021학년도 입학
-- 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL] 학부생 인턴
+- 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
 - 🔥 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
 - 🔥 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
 - 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
