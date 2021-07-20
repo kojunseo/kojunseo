@@ -3,7 +3,7 @@
 ### BIO
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
-- 💻 AI Researcher [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
+- 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
 - 🔥 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🔥 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
 - 🔥 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
