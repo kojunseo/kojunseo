@@ -9,6 +9,7 @@
 - 🔥 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 🔥 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
+- 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 
 ### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
@@ -19,6 +20,7 @@
 - 🔥 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 🔥 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
+- 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 
 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
 https://korkite.github.io/
