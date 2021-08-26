@@ -26,7 +26,7 @@
 https://korkite.github.io/
 
 ### Publications (논문)
-- Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
+- [2nd Author] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
 
 ### Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
