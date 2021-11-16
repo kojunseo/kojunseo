@@ -10,6 +10,7 @@
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 🔥 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
+- 🔥 AI Championship 1st prize on etoos
 
 ### BIO in Korean
 - 🎒 성균관대학교 인공지능융합전공 18학번
@@ -21,6 +22,7 @@
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 🔥 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
+- 🔥 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등)
 
 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
 https://korkite.github.io/
