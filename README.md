@@ -1,28 +1,36 @@
 ### Junseo Ko 
 
-### BIO
+## BIO 👨🏻‍💻
+### Education
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
+### Experience
 - 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
+- 💻 AI Engineer in RAONDATA
+- 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
+- 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
+### Awards
 - 🏅 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🏅 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
 - 🏅 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
-- 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 🏅 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
-- 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 - 🏅 AI Championship 1st prize (AI Engineering)
 - 🏅 AI Championship the Grand Final 3rd prize (AI Engineering)
 
-### BIO in Korean
+## 나를 소개합니다 👨🏻‍💻
+### 학력
 - 🎒 성균관대학교 인공지능융합전공 18학번
 - 🎒 성균관대학교 대학원 인공지능융합학과 2021학년도 입학
+### 경험
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
+- 💻 RAONDATA AI 엔지니어
+- 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
+- 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
+### 수상
 - 🏅 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
 - 🏅 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
 - 🏅 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
-- 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 🏅 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
-- 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 - 🏅 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
 - 🏅 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 
