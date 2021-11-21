@@ -1,5 +1,3 @@
-# Junseo Ko
-
 ## BIO 👨🏻‍💻
 ### Education
 - 🎒 Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU), Seoul
