@@ -1,4 +1,4 @@
-### Junseo Ko 
+# Junseo Ko
 
 ## BIO 👨🏻‍💻
 ### Education
