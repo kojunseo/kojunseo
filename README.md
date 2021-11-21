@@ -10,12 +10,12 @@
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 ### Awards
-- 🏅 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
-- 🏅 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
-- 🏅 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
-- 🏅 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
-- 🏅 AI Championship 1st prize (AI Engineering)
-- 🏅 AI Championship the Grand Final 3rd prize (AI Engineering)
+- 🥈 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
+- 🥉 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
+- 🥈 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
+- 🥉 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
+- 🥇 AI Championship 1st prize (AI Engineering)
+- 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
 
 
 ## 나를 소개합니다 👨🏻‍💻
@@ -28,12 +28,12 @@
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 ### 수상
-- 🏅 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
-- 🏅 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
-- 🏅 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
-- 🏅 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
-- 🏅 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
-- 🏅 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
+- 🥈 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
+- 🥉 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
+- 🥈 성균관대학교 생활개선앱개발대회 우수상(2등), [서버(백엔드) 엔지니어링 (2021)][appdev]
+- 🥉 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
+- 🥇 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
+- 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 
 ## 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
 https://korkite.github.io/
