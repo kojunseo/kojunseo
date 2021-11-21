@@ -6,7 +6,7 @@
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
 ### Experience
 - 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
-- 💻 AI Engineer in [RAONDATA][RAONDATA]
+- 💻 AI Engineer in [RAONDATA][raondata]
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 ### Awards
@@ -17,13 +17,14 @@
 - 🏅 AI Championship 1st prize (AI Engineering)
 - 🏅 AI Championship the Grand Final 3rd prize (AI Engineering)
 
+
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사과정 (2021~2022)
 ### 경험
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
-- 💻 [RAONDATA][RAONDATA] 인공지능 엔지니어 (AI Team)
+- 💻 [RAONDATA][raondata] 인공지능 엔지니어 (AI Team)
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 ### 수상
@@ -34,13 +35,13 @@
 - 🏅 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
 - 🏅 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 
-아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
+## 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
 https://korkite.github.io/
 
-### Publications (논문)
+## Publications (논문)
 - [2nd Author] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
 
-### Languages and Tools
+## Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
 [<img align = "left" width="26px" src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=200&w=200&background=%230078D7">][scholar]
 <img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698864-f1cfab80-4283-11eb-90a5-d53f95851daf.png">
