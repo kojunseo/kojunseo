@@ -6,7 +6,7 @@
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
 ### Experience
 - 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
-- 💻 AI Engineer in RAONDATA
+- 💻 AI Engineer in [RAONDATA][RAONDATA]
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 ### Awards
@@ -23,7 +23,7 @@
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사과정 (2021~2022)
 ### 경험
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
-- 💻 RAONDATA AI 엔지니어
+- 💻 [RAONDATA][RAONDATA] 인공지능 엔지니어 (AI Team)
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 ### 수상
@@ -61,3 +61,4 @@ https://korkite.github.io/
 [bookathon]: https://github.com/KorKite/bookathon2021-SKKU-Team-COCO
 [dongmen]: https://github.com/KorKite/dongguk-ontenttion-mentoring
 [codeep]: https://github.com/KorKite/codeep2021-Team11
+[raondata]: https://www.raondata.ai
