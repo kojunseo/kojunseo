@@ -8,10 +8,10 @@
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 ### Awards
-- 🥈 Second Prize in [Problem Solving Learning Fair at SKKU (2018)][learning]
-- 🥉 Bronze Award in [AI x Bookathon Hackathon (2021)][bookathon]
-- 🥈 Second Award in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
-- 🥉 4th Prize in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
+- 🥈 2nd Place in [Problem Solving Learning Fair at SKKU (2018)][learning]
+- 🥉 3rd Place in [AI x Bookathon Hackathon (2021)][bookathon]
+- 🥈 2nd Place in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
+- 🥉 4th Place in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 - 🥇 AI Championship 1st prize (AI Engineering)
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
 
@@ -38,6 +38,8 @@ https://korkite.github.io/
 
 ## Publications (논문)
 - [2nd Author] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
+- [1st Author] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
+
 
 ## Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
