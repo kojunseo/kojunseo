@@ -40,6 +40,8 @@ https://korkite.github.io/
 - [2nd Author] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
 - [1st Author] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
 
+## Contact Me!
+Email: kojunseo@raondata.ai
 
 ## Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
