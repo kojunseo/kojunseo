@@ -37,9 +37,10 @@
 https://korkite.github.io/
 
 ## Publications (논문)
-- [2nd Author] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
-- [1st Author] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
-- [2nd Author] Jeewoo Yoon, Jinyoung Han, Junseo Ko, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyuhwan Jang, Joonhong Sohn, Kyu Hyung Park, and Daniel Duck-Jin Hwang, "Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study," Scientific Reports
+- [2nd Author, SCI] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
+- [1st Author, Conference] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
+- [2nd Author, SCI] Jeewoo Yoon, Jinyoung Han, Junseo Ko, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyuhwan Jang, Joonhong Sohn, Kyu Hyung Park, and Daniel Duck-Jin Hwang, "Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study," Scientific Reports
+- [1st Auther, SCI] Junseo Ko, Jinyoung Han, Jeewoo Yoon, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyu Hyung Park, Daniel Duck-Jin Hwang, "Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images", Scientific Reports
 
 ## Contact Me!
 Email: kojunseo@raondata.ai
