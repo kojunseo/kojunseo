@@ -41,6 +41,8 @@ https://korkite.github.io/
 - [1st Author, Conference] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
 - [2nd Author, SCI] Jeewoo Yoon, Jinyoung Han, Junseo Ko, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyuhwan Jang, Joonhong Sohn, Kyu Hyung Park, and Daniel Duck-Jin Hwang, "Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study," Scientific Reports
 - [1st Author, SCI] Junseo Ko, Jinyoung Han, Jeewoo Yoon, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyu Hyung Park, Daniel Duck-Jin Hwang, "Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images", Scientific Reports
+- [Author, SCI] Jinyoung Han, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Has Jun Lee, Junseo Ko, Jeewoo Yoon, Daniel Duck-Jin Hwang, “Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images”, Scientific Reports.(2022)
+
 
 ## Contact Me!
 Email: kojunseo@raondata.ai
