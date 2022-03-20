@@ -7,7 +7,7 @@
 - 💻 AI Engineer in [RAONDATA][raondata]
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
-- 👨‍🏫 TA for Advanced Machine Learning / Deep Learning (SKKU, Graguated School)
+- 👨‍🏫 TA for Advanced Machine Learning / Deep Learning (SKKU, Graguated School, 2022-1)
 ### Awards
 - 🥈 2nd Place in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🥉 3rd Place in [AI x Bookathon Hackathon (2021)][bookathon]
@@ -29,7 +29,7 @@
 - 💻 [RAONDATA][raondata] 인공지능 엔지니어 (AI Team)
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
-- 👨‍🏫 성균관대학교 고급머신러닝/딥러닝 대학원 실습조교
+- 👨‍🏫 2022년 1학기 성균관대학교 고급머신러닝/딥러닝 대학원 실습조교
 ### 수상
 - 🥈 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
 - 🥉 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
