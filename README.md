@@ -8,6 +8,8 @@
 - 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
 - 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
 - 👨‍🏫 TA for Advanced Machine Learning / Deep Learning (SKKU, Graguated School, 2022-1)
+- 👨‍🏫 TA for NH Data Science Class (Machine Learning part, 2022-04 ~ 05)
+
 ### Awards
 - 🥈 2nd Place in [Problem Solving Learning Fair at SKKU (2018)][learning]
 - 🥉 3rd Place in [AI x Bookathon Hackathon (2021)][bookathon]
@@ -15,6 +17,7 @@
 - 🥉 4th Place in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 - 🥇 AI Championship 1st prize (AI Engineering)
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
+
 ### Interest
 - 👁 Medical Imaging, especially SD-OCT, Multi-Instance Learning.
 - 🕺 Multi-Modal Learning, especially Talking Face Generation.
@@ -30,6 +33,7 @@
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 - 👨‍🏫 2022년 1학기 성균관대학교 고급머신러닝/딥러닝 대학원 실습조교
+- 👨‍🏫 NH농협 데이터사이언스 재직자 과정 조교
 ### 수상
 - 🥈 성균관대학교 [문제해결과 알고리즘 러닝페어 2등 수상(2018, 학부대학장상)][learning]
 - 🥉 성균관대학교 [AI북커톤대회 장려상 (2021)][bookathon]
