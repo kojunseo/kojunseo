@@ -50,12 +50,13 @@
 https://korkite.github.io/
 
 ## Publications (논문)
-- [2nd Author, SCI] Hwang, D.DJ., Choi, S., Ko, J. et al. Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. Sci Rep 11, 9275 (2021). https://doi.org/10.1038/s41598-021-88543-7
-- [1st Author, Conference] Junseo Ko, Jeewoo Yoon, DaeJin Choi*, Eunil Park, Sangheon Pack, and Jinyoung Han*, "Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society (CTSoc), November, 2021.
-- [2nd Author, SCI] Jeewoo Yoon, Jinyoung Han, Junseo Ko, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyuhwan Jang, Joonhong Sohn, Kyu Hyung Park, and Daniel Duck-Jin Hwang, "Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study," Scientific Reports
-- [1st Author, SCI] Junseo Ko, Jinyoung Han, Jeewoo Yoon, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Kyu Hyung Park, Daniel Duck-Jin Hwang, "Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images", Scientific Reports
-- [Author, SCI] Jinyoung Han, Seong Choi, Ji In Park, Joon Seo Hwang, Jeong Mo Han, Has Jun Lee, Junseo Ko, Jeewoo Yoon, Daniel Duck-Jin Hwang, “Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images”, Scientific Reports.(2022)
-
+| Paper | Journal or Conference | Authorship | Year | 
+| --------- | ----------- | ------- | ------- |
+| Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. | Scientific Reports (SCI, Q1) | 2nd Author | 2021 |
+| Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society | IEEE Consumer Technology Society (CTSoc) | 1st Author | 2021 |
+| Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study | Scientific Reports (SCI, Q1) | 2nd Author | 2022 |
+| Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images |  Scientific Reports (SCI, Q1) | 1st Author | 2022 |
+| Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images | Scientific Reports (SCI, Q1) | Author | 2022 |
 
 ## Contact Me!
 Email: kojunseo@raondata.ai
