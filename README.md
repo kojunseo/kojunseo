@@ -50,7 +50,7 @@
 https://korkite.github.io/
 
 ## Publications (논문)
-| Paper | Journal or Conference | Authorship | Year | 
+| Title | Journal or Conference | Authorship | Year | 
 | --------- | ----------- | ------- | ------- |
 | Distinguishing retinal angiomatous proliferation from polypoidal choroidal vasculopathy with a deep neural network based on optical coherence tomography. | Scientific Reports (SCI, Q1) | 2nd Author | 2021 |
 | Trafficformer: A Transformer-based Traffic Predictor," IEEE Consumer Technology Society | IEEE Consumer Technology Society (CTSoc) | 1st Author | 2021 |
@@ -59,7 +59,7 @@ https://korkite.github.io/
 | Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images | Scientific Reports (SCI, Q1) | Author | 2022 |
 
 ## Contact Me!
-Email: kojunseo@raondata.ai
+Email: sta06167@naver.com
 
 ## Languages and Tools
 [<img align = "left" width="26px" src="https://user-images.githubusercontent.com/50725139/102698710-c4cec900-4282-11eb-9f13-b5477cf503bf.png">][Youtube Link]
