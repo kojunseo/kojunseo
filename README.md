@@ -38,8 +38,7 @@
 - 🥇 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
 - 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 
-## 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
-https://korkite.github.io/
+
 
 ## Publications (논문)
 | Title | Journal or Conference | Authorship | Year | 
@@ -49,6 +48,12 @@ https://korkite.github.io/
 | Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study | Scientific Reports (SCI, Q1) | 2nd Author | 2022 |
 | Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images |  Scientific Reports (SCI, Q1) | 1st Author | 2022 |
 | Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images | Scientific Reports (SCI, Q1) | Author | 2022 |
+
+
+## E-Book
+* (Flask)[https://korkite.github.io/]
+* (Keras)[https://github.com/KorKite/study-keras-basic]
+
 
 ## Contact Me!
 Email: sta06167@naver.com
