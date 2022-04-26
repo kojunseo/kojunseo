@@ -18,10 +18,6 @@
 - 🥇 AI Championship 1st prize (AI Engineering)
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
 
-### Interest
-- 👁 Medical Imaging, especially SD-OCT, Multi-Instance Learning.
-- 🕺 Multi-Modal Learning, especially Talking Face Generation.
-- 🚀 Apply AI to various domains.
 
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
@@ -41,10 +37,6 @@
 - 🥉 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
 - 🥇 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
 - 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
-### 연구주제
-- 👁 의료인공지능 (SD-OCT연구, Multi-Instance, 컴퓨터비전)
-- 🕺 멀티모달 (말하는 얼굴 생성 모델)
-- 🚀 인공지능을 다양한 분야에 적용해보는 것에 흥미를 가지고 있습니다!
 
 ## 아래 링크에서 최근 작성하고 있는 고준서의 새 교재를 살펴보세요.
 https://korkite.github.io/
