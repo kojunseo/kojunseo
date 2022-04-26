@@ -51,8 +51,8 @@
 
 
 ## E-Book
-* (Flask)[https://korkite.github.io/]
-* (Keras)[https://github.com/KorKite/study-keras-basic]
+* [Flask 기초](https://korkite.github.io/)
+* [Keras 기초](https://github.com/KorKite/study-keras-basic)
 
 
 ## Contact Me!
