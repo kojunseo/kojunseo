@@ -20,6 +20,7 @@
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
 ### Patents 
 - 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
+- 📜 AI based hair loss management machine and method (10-2022-0035362)
 
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
@@ -41,6 +42,7 @@
 - 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 ### 특허
 - 📜 3D 마커리스 모션 캡처 기반 3D 아바타 생성 장치 및 방법 특허 등록 (10-2022-0026578)
+- 📜 인공지능 기반 탈모 관리 장치 및 방법 (10-2022-0035362)
 
 ## Publications (논문)
 | Title | Journal or Conference | Authorship | Year | 
