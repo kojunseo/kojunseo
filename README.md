@@ -18,6 +18,8 @@
 - 🥉 4th Place in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 - 🥇 AI Championship 1st prize (AI Engineering)
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
+- 🎖 Paper Award 2022-1 (Department of Applied Artificial Intelligence, SKKU) 
+
 ### Patents 
 - 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
 - 📜 AI based hair loss management machine and method (10-2022-0035362)
@@ -40,6 +42,8 @@
 - 🥉 성균관대학교 코딥러닝 프로젝트 우수상(4등, 총장상), [안저질환을 분류하는 인공지능 웹 어플리케이션 개발 (2021)][codeep]
 - 🥇 중소벤처기업사업부 인공지능 챔피언십 장관상 (이투스 과제 1등, AI Engineering)
 - 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
+- 🎖 성균관대학교 인공지능융합학과 [2022-1 우수연구시상] 우수상
+
 ### 특허
 - 📜 3D 마커리스 모션 캡처 기반 3D 아바타 생성 장치 및 방법 특허 등록 (10-2022-0026578)
 - 📜 인공지능 기반 탈모 관리 장치 및 방법 (10-2022-0035362)
