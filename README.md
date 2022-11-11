@@ -25,7 +25,7 @@
 - 📜 AI based hair loss management machine and method (10-2022-0035362)
 
 ### Designer
-- Design the logo[hblogo] of [Hanbit Medical][hb_link]
+- Design the [logo][hblogo] of [Hanbit Medical][hb_link]
 
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
