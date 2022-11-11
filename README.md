@@ -24,6 +24,9 @@
 - 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
 - 📜 AI based hair loss management machine and method (10-2022-0035362)
 
+### Designer
+- Design the logo[hblogo] of [Hanbit Medical][hb_link]
+
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
@@ -47,6 +50,9 @@
 ### 특허
 - 📜 3D 마커리스 모션 캡처 기반 3D 아바타 생성 장치 및 방법 특허 등록 (10-2022-0026578)
 - 📜 인공지능 기반 탈모 관리 장치 및 방법 (10-2022-0035362)
+
+### 디자이너
+- [한빛내과의원][hb_link] 로고 [디자인][hblogo]
 
 ## Publications (논문)
 | Title | Journal or Conference | Authorship | Year | 
@@ -88,3 +94,5 @@ Email: sta06167@naver.com
 [dongmen]: https://github.com/KorKite/dongguk-ontenttion-mentoring
 [codeep]: https://github.com/KorKite/codeep2021-Team11
 [raondata]: https://www.raondata.ai
+[hblogo]: https://github.com/kojunseo/DesignerKo/blob/main/habit_medical.png
+[hb_link]: https://hanbitmedical.imweb.me/index
