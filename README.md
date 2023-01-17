@@ -20,6 +20,7 @@
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
 - 🎖 Paper Award 2022-1 (Department of Applied Artificial Intelligence, SKKU) 
 - 🎖 [2022 Sungkyunwan University Student Success Story Award][stdsss]
+- 🎖 Paper Award 2022-2 (Department of Applied Artificial Intelligence, SKKU) 
 
 ### Patents 
 - 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
@@ -48,6 +49,7 @@
 - 🥉 중소벤처기업사업부 인공지능 챔피언십 왕중왕전 장관상 (참여팀 전체 3등, AI Engineering)
 - 🎖 성균관대학교 인공지능융합학과 [2022-1 우수연구시상] 우수상
 - 🎖 [성균관대학교 2022 대학원 학생성공공모전 수상][[stdsss]]
+- 🎖 성균관대학교 인공지능융합학과 [2022-2 우수연구시상] 우수상
 
 ### 특허
 - 📜 3D 마커리스 모션 캡처 기반 3D 아바타 생성 장치 및 방법 특허 등록 (10-2022-0026578)
