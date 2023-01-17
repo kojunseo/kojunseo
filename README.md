@@ -18,9 +18,9 @@
 - 🥉 4th Place in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
 - 🥇 AI Championship 1st prize (AI Engineering)
 - 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
-- 🎖 Paper Award 2022-1 (Department of Applied Artificial Intelligence, SKKU) 
+- 🎖 Best Research Award 2022-1 (Department of Applied Artificial Intelligence, SKKU) 
 - 🎖 [2022 Sungkyunwan University Student Success Story Award][stdsss]
-- 🎖 Paper Award 2022-2 (Department of Applied Artificial Intelligence, SKKU) 
+- 🎖 Best Research Award 2022-2 (Department of Applied Artificial Intelligence, SKKU) 
 
 ### Patents 
 - 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
