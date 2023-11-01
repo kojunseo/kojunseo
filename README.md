@@ -11,25 +11,6 @@
 - 👨‍🏫 TA for Advanced Machine Learning / Deep Learning (SKKU, Graguated School, 2022-1)
 - 👨‍🏫 TA for NH Data Science Class (Machine Learning part, 2022-04 ~ 05)
 
-### Awards
-- 🥈 2nd Place in [Problem Solving Learning Fair at SKKU (2018)][learning]
-- 🥉 3rd Place in [AI x Bookathon Hackathon (2021)][bookathon]
-- 🥈 2nd Place in App Development Hackathon, [Server(Back-end) Engineering (2021)][appdev]
-- 🥉 4th Place in Co-deep Learning Project in SKKU, [Development OCT Classification Web Application, (AI, Flask)(2021)][codeep]
-- 🥇 AI Championship 1st prize (AI Engineering)
-- 🥉 AI Championship the Grand Final 3rd prize (AI Engineering)
-- 🎖 Best Research Award 2022-1 (Department of Applied Artificial Intelligence, SKKU) 
-- 🎖 [2022 Sungkyunwan University Student Success Story Award][stdsss]
-- 🎖 [Best Research Award 2022-2 (Department of Applied Artificial Intelligence, SKKU)][best2022_2]
-- 🎖 [KIICE(한국정보통신학회) Great Paper Award][best_paper]
-
-### Patents 
-- 📜 3D Markerless motion capture based 3D avator generation machine and method (10-2022-0026578)
-- 📜 AI based hair loss management machine and method (10-2022-0035362)
-
-### Designer
-- Design the [logo][hblogo] of [Hanbit Medical][hb_link]
-
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
