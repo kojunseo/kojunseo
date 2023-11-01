@@ -50,6 +50,7 @@
 | Classifying central serous chorioretinopathy subtypes with a deep neural network using optical coherence tomography images: A cross-sectional study | Scientific Reports (SCI, Q1) | 2nd Author | 2022 |
 | Assessing Central Serous Chorioretinopathy with Deep Learning and Multiple Optical Coherence Tomography Images |  Scientific Reports (SCI, Q1) | 1st Author | 2022 |
 | Classifying Neovascular Age-related Macular Degeneration with a Deep Convolutional Neural Network based on Optical Coherence Tomography Images | Scientific Reports (SCI, Q1) | Author | 2022 |
+| (🏆 우수논문 선정)음성합성 훈련을 위한 형태소 분석 기반 한국어 Grapheme-to-Phoneme 변환기 | 한국정보통신학회 추계학술대회 | 1st Author | 2023 |
 
 
 ## E-Book
