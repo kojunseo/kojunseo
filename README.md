@@ -6,18 +6,15 @@
 ### Experience
 - 💻 (NOW) AI Engineer in [RAONDATA][raondata]
 - 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
-- 👨‍🏫 Dongguk University, Department of Industrial Engineering [Web Development Project Mentoring][dongmen]  
-- 👨‍🏫 Mentoring on Samsung Junior Software Development Cup
-- 👨‍🏫 TA for Advanced Machine Learning / Deep Learning (SKKU, Graguated School, 2022-1)
-- 👨‍🏫 TA for NH Data Science Class (Machine Learning part, 2022-04 ~ 05)
 
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사과정 (2021~2022)
-### 약력
+### 경력
 - 💻 (현재) [RAONDATA][raondata] 인공지능 엔지니어 (AI Team)
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
+### 약력
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
 - 👨‍🏫 삼성 주니어 소프트웨어 개발대회 대학생 멘토
 - 👨‍🏫 2022년 1학기 성균관대학교 고급머신러닝/딥러닝 대학원 실습조교
