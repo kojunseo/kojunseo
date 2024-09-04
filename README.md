@@ -13,7 +13,7 @@
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사과정 (2021~2022)
 ### 경력
-- 💻 (현재) [HealingPaper](https://team.gangnamunni.com/) 머신러닝 엔지니어 
+- 💻 (현재) [강남언니팀](https://team.gangnamunni.com/) 머신러닝 엔지니어 
 - 💻 [RAONDATA][raondata] 인공지능 엔지니어 (2021.09 ~ 2024.09)
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
 ### 약력
