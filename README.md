@@ -4,15 +4,17 @@
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
 
 ### Experience
-- 💻 (NOW) AI Engineer in [RAONDATA][raondata]
-- 💻 AI Researcher in [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
+- 💻 ML Enginner at [HealingPaper](https://team.gangnamunni.com/)
+- 💻 AI Engineer at [RAONDATA][raondata] (2021.09 ~ 2024.09)
+- 💻 AI Researcher at [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
 
 ## 나를 소개합니다 👨🏻‍💻
 ### 학력
 - 🎒 성균관대학교 인공지능융합전공 (2018~2021)
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사과정 (2021~2022)
 ### 경력
-- 💻 (현재) [RAONDATA][raondata] 인공지능 엔지니어 (AI Team)
+- 💻 (현재) [HealingPaper](https://team.gangnamunni.com/) 머신러닝 엔지니어 
+- 💻 [RAONDATA][raondata] 인공지능 엔지니어 (2021.09 ~ 2024.09)
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
 ### 약력
 - 👨‍🏫 동국대학교 산업시스템공학과 4학년 [웹개발 프로젝트 멘토링 (2021)][dongmen]
