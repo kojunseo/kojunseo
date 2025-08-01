@@ -8,7 +8,7 @@
 - 🎒 Department of Applied Artificial Intelligence, Graduate School, Sungkyunkwan University(SKKU), Seoul
 
 ### Experience
-- 💻 ML Enginner at [heydealer(PRND)](https://www.prnd.co.kr/home) (2024.09 ~ 2025.04)
+- 💻 ML Enginner at [heydealer(PRND)](https://www.prnd.co.kr/home) (2025.04 ~ )
 - 💻 ML Enginner at [HealingPaper](https://team.gangnamunni.com/) (2024.09 ~ 2025.04)
 - 💻 AI Engineer at [RAONDATA][raondata] (2021.09 ~ 2024.09)
 - 💻 AI Researcher at [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]
