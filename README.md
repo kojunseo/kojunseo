@@ -19,7 +19,7 @@
 - 🎒 성균관대학교 대학원 인공지능융합학과 석사
   
 ### 경력
-- 💻 [헤이딜러(PRND)](https://www.prnd.co.kr/home) 머신러닝 엔지니어 (2024.09 ~ 2025.04)
+- 💻 [헤이딜러(PRND)](https://www.prnd.co.kr/home) 머신러닝 엔지니어 (2025.04 ~ )
 - 💻 [강남언니(힐링페이퍼)](https://team.gangnamunni.com/) 머신러닝 엔지니어 (2024.09 ~ 2025.04)
 - 💻 [RAONDATA][raondata] 인공지능 엔지니어 (2021.09 ~ 2024.09)
 - 💻 [Data Science and Artificial Intelligence Lab (DSAIL)][DSAIL]연구실 AI 연구원
